@@ -1,6 +1,6 @@
 # WNTS Gas-Pipeline Network System Identification — Progress Report
 
-*Status: 2026-07-09 · Code: `experiments/wnts/` · Results: `outputs/wnts/`*
+*Status: 2026-07-09 · Code: `wnts/` · Results: `outputs/wnts/`*
 *Data: `D:\repository\wnts_hourly` (confidential — do not redistribute)*
 
 ## 1. Objective
@@ -417,7 +417,7 @@ CLI: `sciml datasets` and
 `sciml sysid --data wnts --states P_up P_orf --inputs all`.
 Covered by `tests/test_datasets.py` / `tests/test_sysid.py` (including
 coefficient recovery against the known `lti_demo` ground truth).
-The `experiments/wnts` package remains as the frozen record of the study;
+The `wnts` package remains as the frozen record of the study;
 new datasets should go through the registry.
 
 ---

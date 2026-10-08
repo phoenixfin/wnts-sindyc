@@ -18,7 +18,7 @@ explode".
 
 Usage::
 
-    python -m experiments.wnts.ablation_states --years 2019
+    python -m wnts.ablation_states --years 2019
 """
 
 from __future__ import annotations

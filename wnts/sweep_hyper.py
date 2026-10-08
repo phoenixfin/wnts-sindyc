@@ -10,7 +10,7 @@ Two sweeps (within-year 2019, causal protocol):
 
 Usage::
 
-    python -m experiments.wnts.sweep_hyper
+    python -m wnts.sweep_hyper
 """
 
 from __future__ import annotations

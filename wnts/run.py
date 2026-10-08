@@ -37,7 +37,7 @@ on entirely different contract years.
 
 Usage::
 
-    python -m experiments.wnts.run --data-dir D:/repository/wnts_hourly
+    python -m wnts.run --data-dir D:/repository/wnts_hourly
 """
 
 from __future__ import annotations

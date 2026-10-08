@@ -18,7 +18,7 @@ trained, tested on 2020 (the strongest A1 configuration).
 
 Usage::
 
-    python -m experiments.wnts.ablation_library
+    python -m wnts.ablation_library
 """
 
 from __future__ import annotations

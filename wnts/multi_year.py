@@ -10,7 +10,7 @@ test on all clean segments of year Y+1), then aggregates:
 
 Usage::
 
-    python -m experiments.wnts.multi_year --years 2014 2015 ... 2021
+    python -m wnts.multi_year --years 2014 2015 ... 2021
 """
 
 from __future__ import annotations

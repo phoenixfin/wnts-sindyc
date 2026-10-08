@@ -13,7 +13,7 @@ Evaluated on within-year 2019 and pooled 2016-2019 -> 2020.
 
 Usage::
 
-    python -m experiments.wnts.ablation_inputs
+    python -m wnts.ablation_inputs
 """
 
 from __future__ import annotations

@@ -19,7 +19,7 @@ Variants (configs: within-2019 and pooled 2016-2019 -> 2020):
 
 Usage::
 
-    python -m experiments.wnts.benchmark_dmdc
+    python -m wnts.benchmark_dmdc
 """
 
 from __future__ import annotations
