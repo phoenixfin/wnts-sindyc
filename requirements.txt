@@ -1,4 +1,4 @@
-sciml @ git+https://github.com/phoenixfin/sciml-framework@pi-deeponet-swe-frozen-2026-10-08
+sciml @ git+https://github.com/phoenixfin/sciml-framework@v0.2.0
 numpy
 scipy
 matplotlib
